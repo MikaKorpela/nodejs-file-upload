@@ -1,0 +1,9 @@
+I've been working in telecommunications domain for a long time, and interest has grown to see the IT industry also from other perspectives.
+
+Even though I'm working for system architecture, I've participated also to prototyping and coding work, and kept myself up-to-date with latest implementation technologies with self-studies and hobby projects.
+
+I'm interested in backend development, data processing and data analyze with different implementation technologies; like Java and Go.
+
+I consider myself as a good problem analyzer and problem solver, and I'm interested to consider different approaches and implementation alternatives.
+
+Outside of working hours my hobbies are music, and lately 3D-design and 3D-printing. I have also a growing interest to IoT and robotics, which goes nicely together with 3D-printing and programming with micro controllers.
